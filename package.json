@@ -1,0 +1,14 @@
+{
+  "name": "mineflayer-hivemind",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "mineflayer": "^4.14.0"
+  },
+  "description": "A mineflayer swarm with multithreading.",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typed-emitter": "^2.1.0",
+    "typescript": "^5.2.2"
+  }
+}
